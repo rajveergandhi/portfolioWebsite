@@ -52,3 +52,11 @@ $(window).scroll(function() {
 $(document).ready(function(){
    $('.parallax').scrolly({bgParallax: true});
 });
+
+
+$(function(){
+     $(".element").typed({
+       strings: ["First sentence. ^1000", "Second sentence."],
+       typeSpeed: -5
+     });
+ });
