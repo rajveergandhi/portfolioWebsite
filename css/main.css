@@ -154,17 +154,17 @@ x:-o-prefocus, hr3:after {
 
 .facebook-color:hover {
     background-color: #3B5998 !important;
-    color: #fff!important;
+    color: #fff !important;
 }
 
 .twitter-color {
-  color: #63B3FF!important;
-	border-color: #63B3FF!important;
+  color: #63B3FF !important;
+	border-color: #63B3FF !important;
 }
 
 .twitter-color:hover {
-	background-color: #63B3FF!important;
-	color: #fff!important;
+	background-color: #63B3FF !important;
+	color: #fff !important;
 }
 
 .linkedIn-color {
@@ -173,11 +173,10 @@ x:-o-prefocus, hr3:after {
 }
 .linkedIn-color:hover {
   background-color: #4875B4 !important;
-	color: #fff!important;
+	color: #fff !important;
 }
 
 .rosso {
-
 color: #E90052;
 }
 
