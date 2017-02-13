@@ -56,7 +56,7 @@ $(document).ready(function(){
 
 $(function(){
      $(".element").typed({
-       strings: ["First sentence. ^1000", "Second sentence."],
+       strings: ["Hello, my name is Rajveer! ^1000", "I like to make websites ^1000 and stuff."],
        typeSpeed: -5
      });
  });
