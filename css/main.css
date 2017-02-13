@@ -153,12 +153,12 @@ x:-o-prefocus, hr3:after {
 }
 
 .facebook-color:hover {
-  background-color: #3B5998 !important;
-	color: #fff!important;
+    background-color: #3B5998 !important;
+    color: #fff!important;
 }
 
 .twitter-color {
-	color: #63B3FF!important;
+  color: #63B3FF!important;
 	border-color: #63B3FF!important;
 }
 
@@ -168,8 +168,8 @@ x:-o-prefocus, hr3:after {
 }
 
 .linkedIn-color {
-  color: #4875B4 !important;
-  border-color: #4875B4 !important;
+    color: #4875B4 !important;
+    border-color: #4875B4 !important;
 }
 .linkedIn-color:hover {
   background-color: #4875B4 !important;
