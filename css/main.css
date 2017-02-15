@@ -474,6 +474,7 @@ a:focus {
 
 .intro-text {
     font-size: 18px;
+    padding: 20px 0;
 }
 
 @media(min-width:767px) {
@@ -881,14 +882,15 @@ li.skill-bar {
 /*Blinking Cursor*/
 
 .element {
-  margin: 0;
   display: inline;
+  color: #E90052;
 }
 .typed-cursor{
       opacity: 1;
       -webkit-animation: blink 0.7s infinite;
       -moz-animation: blink 0.7s infinite;
       animation: blink 0.7s infinite;
+      font-size: 30px;
 }
 @keyframes blink {
       0% { opacity:1; }
@@ -904,4 +906,8 @@ li.skill-bar {
       0% { opacity:1; }
       50% { opacity:0; }
       100% { opacity:1; }
+}
+
+.typedText {
+  font-size: 30px;
 }
