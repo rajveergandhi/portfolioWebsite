@@ -18,7 +18,7 @@ $(function() {
     });
 });
 
-$('#animazione').animate({
+$('#animation').animate({
 marginTop: '20%',
 opacity:"show"
 }, 1500, function() {
@@ -31,7 +31,7 @@ $('.frecciaDown').animate({
 
 $(window).scroll(function() {
 if($(window).scrollTop() + $(window).height() == $(document).height()) {
-   $('#animazione-footer').animate({
+   $('#animation-footer').animate({
        marginTop: '-5px',
        opacity:"show"
      }, 800);
