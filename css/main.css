@@ -599,12 +599,30 @@ a:focus {
     height: 550px;
 }
 
+#contact {
+  width: 100%;
+  padding: 50px 0;
+  color: #fff;
+  background: #000 no-repeat center fixed;
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  position: relative;
+}
+
+#footer {
+  padding: 0;
+}
+
 .footer-section {
     width: 100%;
-    padding: 0 0;
+    padding: 0;
     color: #fff;
-    background: #000 repeat center;
+    background: #E90052 repeat center;
     height: 200px;
+
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
