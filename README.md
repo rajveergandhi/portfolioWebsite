@@ -2,4 +2,4 @@
 
 # ----------in progress------------
 
-https://rajveergandhi.github.io
+www.rajveergandhi.com
