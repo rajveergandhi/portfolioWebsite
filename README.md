@@ -2,4 +2,4 @@
 
 # ----------in progress------------
 
-<a href="www.rajveergandhi.com" target="_blank">Visit here</a>
+<a href="http://www.rajveergandhi.com" target="_blank">Visit here</a>
