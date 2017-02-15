@@ -149,12 +149,12 @@ x:-o-prefocus, hr3:after {
 
 .cv-color {
   margin: 100px 0;
-  color: #3B5998 !important;
-  border-color: #3B5998 !important;
+  color: #E90052 !important;
+  border-color: #E90052 !important;
 }
 
 .cv-color:hover {
-  background-color: #3B5998 !important;
+  background-color: #E90052 !important;
   color: #fff !important;
 }
 
