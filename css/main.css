@@ -671,17 +671,17 @@ a:focus {
 }
 
 .btn-default {
-    /*border: 1px solid #e74c3c;*/
-    /*color: #e74c3c;*/
+    border: 1px solid #e74c3c;
+    color: #e74c3c;
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    /*border: 1px solid #e74c3c;*/
+    border: 1px solid #e74c3c;
     outline: 0;
     color: #000;
-    /*background-color: #e74c3c;*/
+    background-color: #e74c3c;
 }
 
 .btn-huge {
