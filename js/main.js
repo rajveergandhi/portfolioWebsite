@@ -56,7 +56,7 @@ $(document).ready(function(){
 
 $(function(){
      $(".element").typed({
-       strings: ["^2000 <span class='typedText'>Hello, my name is Rajveer!</span> ^1000", "<span class='typedText'>I like to make websites ^1000 and stuff.</span>"],
+       strings: ["^2000 <span class='typedText'>Hello! my name is Rajveer.</span> ^1000", "<span class='typedText'>I like to make websites ^1000 and stuff.</span>"],
        typeSpeed: 50,
      });
  });
