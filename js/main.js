@@ -18,6 +18,8 @@ $(function() {
     });
 });
 
+
+//intro text animation
 $('#animation').animate({
 marginTop: '20%',
 opacity:"show"
@@ -29,6 +31,7 @@ $('.frecciaDown').animate({
   }, 800);
 });
 
+//footer text animation
 $(window).scroll(function() {
 if($(window).scrollTop() + $(window).height() == $(document).height()) {
    $('#animation-footer').animate({
@@ -49,11 +52,13 @@ $(window).scroll(function() {
   }
 });
 
+
+//scrolly script
 $(document).ready(function(){
    $('.parallax').scrolly({bgParallax: true});
 });
 
-
+//typed text
 $(function(){
      $(".element").typed({
        strings: ["^2000 <span class='typedText'>Hello! my name is Rajveer.</span> ^1000", "<span class='typedText'>I like to make websites ^1000 and stuff.</span>"],
