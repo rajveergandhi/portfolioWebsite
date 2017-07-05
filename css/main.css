@@ -393,7 +393,6 @@ a:focus {
 }
 
 .navbar {
-    width: 99vw;
     margin-bottom: 0;
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
@@ -440,6 +439,7 @@ a:focus {
 
 @media(min-width:767px) {
     .navbar {
+        width: 99vw;
         padding: 20px 0;
         border-bottom: 0;
         letter-spacing: 1px;
