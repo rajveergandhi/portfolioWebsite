@@ -393,11 +393,13 @@ a:focus {
 }
 
 .navbar {
+    width: 99vw;
     margin-bottom: 0;
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     background-color: #000;
+    letter-spacing: 3px;
 }
 
 .navbar-brand {
